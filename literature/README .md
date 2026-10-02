@@ -2,7 +2,7 @@
 
 This folder contains the literature evidence base used for redesigning the SENSS PhD proposal:
 
-> **Justice Intervention in Response to Cult and Gang Violence in Southern Nigeria: Impact on Wellbeing, Trust, and Social Cohesion**
+> `**Justice Intervention in Response to Cult and Gang Violence in Southern Nigeria: Impact on Wellbeing, Trust, and Social Cohesion**`
 
 The purpose of this folder is not simply to collect references. The literature is being examined for its contribution to:
 
