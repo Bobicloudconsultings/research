@@ -1,6 +1,6 @@
 # Literature and Methods/Design Evidence
 
-This folder contains the literature evidence base used for redesign the SENSS PhD proposal:
+This folder contains the literature evidence base used for redesigning the SENSS PhD proposal:
 
 > **Justice Intervention in Response to Cult and Gang Violence in Southern Nigeria: Impact on Wellbeing, Trust, and Social Cohesion**
 
