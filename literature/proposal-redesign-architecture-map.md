@@ -4,11 +4,11 @@
 
 This document maps the original SENSS proposal against the feedback received from the SENSS Thematic Review Panel.
 
-The purpose is **not to create a completely new research project**. The original proposal remains the foundation. The aim is to retain the strongest parts of the original submission while refining the research architecture, strengthening feasibility, and making the integration of the different disciplinary perspectives much clearer.
+The purpose is not to create a completely new research project. The original proposal remains the foundation. The aim is to retain the strongest parts of the original submission while refining the research architecture, strengthening feasibility, and making the integration of the different disciplinary perspectives much clearer.
 
 ### SENSS feedback to address
 
-> “The Panel felt that this is an ambitious project addressing a clear research problem. It is well-structured and has a clear methodology. However, the Panel also felt that the feasibility of the project needs more consideration due its ambitious nature. It would also benefit from more detail around the different disciplines and how they are integrated.”
+> “The Panel felt that this is an ambitious project addressing a clear research problem. It is well-structured and has a clear methodology. However, the Panel also felt that the feasibility of the project needs more consideration due to its ambitious nature. It would also benefit from more detail around the different disciplines and how they are integrated.”
 
 The two main redesign priorities are therefore:
 
@@ -56,7 +56,7 @@ The two main redesign priorities are therefore:
 
 # 3. Emerging Logic of the Four Studies
 
-The redesigned studies should form a connected programme rather than four largely separate projects.
+The redesigned studies would form a connected programme rather than four largely separate projects.
 
 ## Study 1 — Justice responses after CGV
 
@@ -72,9 +72,9 @@ It examined PTSD symptoms, trust, attitudes towards offenders and perceived soci
 
 ### Redesign direction
 
-Study 1 should be redesigned around an **evolutionary justice framework**.
+Study 1 would be redesigned around an evolutionary justice framework.
 
-The focus should move towards understanding the psychological conditions associated with preferences for:
+The focus would move towards understanding the psychological conditions associated with preferences for:
 
 - punishment;
 - deterrence;
@@ -83,7 +83,7 @@ The focus should move towards understanding the psychological conditions associa
 - revenge; and/or
 - reconciliation.
 
-The study should retain the original concern with justice after CGV but avoid creating an unnecessarily difficult three-group comparison if this cannot be realistically recruited or interpreted.
+The study would retain the original concern with justice after CGV but avoid creating an unnecessarily difficult three-group comparison if this cannot be realistically recruited or interpreted.
 
 ### Contribution to the overall PhD
 
@@ -111,9 +111,9 @@ This creates substantial recruitment, ethical and methodological challenges.
 
 ### Redesign direction
 
-Study 2 should be redesigned around **evolutionary psychology and forensic psychology**.
+Study 2 would be redesigned around evolutionary psychology and forensic psychology.
 
-It should examine how people connected to offending understand:
+It would examine how people connected to offending understand:
 
 - punishment;
 - repair;
@@ -122,7 +122,7 @@ It should examine how people connected to offending understand:
 - disengagement from violence; and
 - continued relationships with the community.
 
-Forensic psychology should make a genuine contribution to the study rather than simply appearing as an additional label.
+Forensic psychology would make a genuine contribution to the study rather than simply appearing as an additional label.
 
 ### Contribution to the overall PhD
 
@@ -146,9 +146,9 @@ It examined:
 
 ### Redesign direction
 
-Study 3 should be **retained but broadened**.
+Study 3 would be retained but broadened.
 
-The study can provide the main community perspective within the PhD.
+The study would provide the main community perspective within the PhD.
 
 Potential areas include:
 
@@ -162,9 +162,9 @@ Potential areas include:
 - traditional/community institutions; and
 - experiences of justice or peacebuilding interventions.
 
-A comparison between communities with **lower and higher levels of CGV exposure** may also be considered, provided that this can be justified and carried out feasibly.
+A comparison between communities with lower and higher levels of CGV exposure may also be considered, provided that this can be justified and carried out feasibly.
 
-Participant selection must be carefully considered. If community leaders are included, the proposal should explain why their perspective is important and what perspectives may not be captured by focusing on leaders.
+Participant selection would be carefully considered. If community leaders are included, the proposal would explain why their perspective is important and what perspectives may not be captured by focusing on leaders.
 
 ### Contribution to the overall PhD
 
@@ -182,11 +182,11 @@ Participants would select questions linked to justice needs identified in Study 
 
 ### Redesign direction
 
-Study 4 should remain, but its role should become clearer.
+Study 4 would remain, but its role would be made more clearer.
 
-Rather than appearing as an independent experiment, it should **use the justice needs and priorities identified in the preceding studies**.
+Rather than appearing as an independent experiment, it would use the justice needs and priorities identified in the preceding studies.
 
-The study can examine:
+The study would examine:
 
 - which justice needs people seek information about;
 - which needs they prioritise;
@@ -195,7 +195,7 @@ The study can examine:
 
 ### Contribution to the overall PhD
 
-Study 4 becomes the **integration stage** of the research.
+Study 4 becomes the integration stage of the research.
 
 It takes findings from the earlier studies and examines how people use those justice considerations when deciding whether justice has actually been achieved.
 
@@ -203,9 +203,9 @@ It takes findings from the earlier studies and examines how people use those jus
 
 # 4. Emerging Interdisciplinary Structure
 
-The disciplines should not be presented as separate subjects that happen to appear in the same PhD.
+The disciplines would not be presented as separate subjects that happen to appear in the same PhD.
 
-They should work together.
+They would work together.
 
 ## Evolutionary psychology
 
@@ -247,11 +247,11 @@ Contribute to understanding:
 
 ## Integration
 
-Together, these perspectives should help answer the broader question:
+Together, these perspectives would help answer the broader question:
 
 > **How is justice understood, chosen and experienced after cult and gang-related violence, and how do different justice responses relate to repair, reintegration, trust and social cohesion?**
 
-The final proposal should explicitly show **where these disciplinary perspectives interact within the studies**, rather than simply listing them in the background section.
+The final proposal would explicitly show where these disciplinary perspectives interact within the studies, rather than simply listing them in the background section.
 
 ---
 
@@ -306,7 +306,7 @@ Before the final proposal is rewritten, the following issues need to be resolved
 
 # 6. Working Principle for the Redesign
 
-The proposal should follow:
+The proposal would follow:
 
 > **Keep → Refine → Replace only where necessary.**
 
@@ -322,7 +322,7 @@ Parts that are good but need clearer links to the revised research architecture.
 
 Only those elements that create unnecessary feasibility problems or no longer fit the redesigned research questions.
 
-The final proposal should therefore remain recognisably the same research project while being:
+The final proposal would therefore remain recognisably the same research project while being:
 
 - more coherent;
 - more feasible;
